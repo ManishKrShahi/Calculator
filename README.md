@@ -1,1 +1,1 @@
-# ManishKrShahi.Calculator
+# Calculator
